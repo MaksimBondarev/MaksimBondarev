@@ -5,8 +5,7 @@ Hi there, i'm Maksim Bondarev👋<br>
 🥅 2021 Goals: Learn Ruby, JavaScript<br>
 ⚡ Fun fact: studied in the theatre school, I almost understand English,<br> I met a computer at 14. only played cs: go,<br> minecraft, and Battlefield. And so I always program,<br> watch movies, listen to music and sit in Discord
 <h4>So, i work with Python and my rest framework is Django.</h4><br>
-<h5>Also work with HTMl, CSS, ald JS</h6><br>
-
+<h5>Also work with HTMl, CSS, ald JS</h6>
 I deployed my blog to HEROKU. 
 --> lets look<br>
 chillproger-blog.herokuapp.com<br>
