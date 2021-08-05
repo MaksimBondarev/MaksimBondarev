@@ -8,6 +8,7 @@ Hi there, i'm Maksim Bondarev👋<br>
 <h5>Also work with HTMl, CSS, ald JS</h6><br>
 
 I deployed my blog to HEROKU. 
---> lets look chillproger-blog.herokuapp.com 
-<br>
+--> lets look
+chillproger-blog.herokuapp.com 
+
 Its without beautiful adatpation for phones, but I will do it soon.
