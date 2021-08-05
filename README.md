@@ -1,16 +1,11 @@
-### Hi there 👋
+Hi there, i'm Maksim Bondarev👋
+🔭 I’m currently working as a python developer
+🌱 I’m currently learning web development
+👯 I’m looking to collaborate with other open source project
+🥅 2021 Goals: Learn Ruby, JavaScript
+⚡ Fun fact: studied in the theatre school, I almost understand English, I met a computer at 14. only played cs: go, minecraft, and Battlefield. And so I always program, watch movies, listen to music and sit in Discord
 
-<!--
-**MaksimBondarev/MaksimBondarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
