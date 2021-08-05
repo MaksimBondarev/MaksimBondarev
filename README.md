@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](https://techrocks.ru/wp-content/uploads/2021/01/repository-creation.png)](https://braydoncoyer.dev)
+[![Braydon's GitHub Banner](https://cdn.discordapp.com/attachments/769529626610368522/872860919569457152/fd91131ea693096d6be5e8aa99d18f9e.jpg)](https://braydoncoyer.dev)
 Hi there, i'm Maksim Bondarev👋<br>
 🔭 I’m currently working as a python developer<br>
 🌱 I’m currently learning web development<br>
