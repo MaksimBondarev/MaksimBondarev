@@ -1,4 +1,4 @@
-Hi there, i'm Maksim Bondarev👋<br>
+<h1>Hi there, i'm Maksim Bondarev👋<br></h1>
 🔭 I’m currently working as a python developer<br>
 🌱 I’m currently learning web development<br>
 👯 I’m looking to collaborate with other open source project<br>
